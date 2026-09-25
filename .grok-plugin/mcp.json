@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "b2bleads": {
+      "type": "streamable-http",
+      "url": "https://api.b2bleadsapi.com/mcp"
+    }
+  }
+}

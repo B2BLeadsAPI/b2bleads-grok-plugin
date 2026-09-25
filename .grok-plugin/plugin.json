@@ -1,0 +1,10 @@
+{
+  "name": "b2bleads",
+  "version": "1.0.0",
+  "description": "Search and enrich B2B business contacts (name, address, phone, website, email) by industry, location, and company size.",
+  "author": "B2BLeadsAPI",
+  "homepage": "https://b2bleadsapi.com/",
+  "repository": "https://github.com/B2BLeadsAPI/b2bleads-grok-plugin",
+  "license": "MIT",
+  "keywords": ["leads", "b2b", "sales", "prospecting", "business-search"]
+}
