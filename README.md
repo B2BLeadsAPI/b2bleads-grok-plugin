@@ -15,7 +15,7 @@ Search for `b2bleads` and press `i` to install, or add this repo directly via th
 - `search_leads` — find business leads by industry, location, and company size
 - `search_leads_advanced` — ⚠️ elevated cost (9x quota): exhaustively cover a whole city, up to ~180 results
 - `list_industries` — list supported industry values
-- `find_email` — look up a best-effort contact email for a single business website (Business/Premium plan required)
+- `find_email` — look up a best-effort contact email for a single business website (any paid plan, Starter and above)
 
 ## Authentication
 
